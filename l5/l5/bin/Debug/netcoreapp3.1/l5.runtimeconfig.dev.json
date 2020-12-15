@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/vbshnsk/.dotnet/store/|arch|/|tfm|",
+      "/Users/vbshnsk/Desktop/work/mt4-wrapper/ConnectionClient",
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ]
+  }
+}

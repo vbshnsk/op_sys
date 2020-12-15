@@ -1,0 +1,12 @@
+/Users/vbshnsk/Desktop/school/1/l5/l5/bin/Debug/netcoreapp3.1/l5.deps.json
+/Users/vbshnsk/Desktop/school/1/l5/l5/bin/Debug/netcoreapp3.1/l5.runtimeconfig.json
+/Users/vbshnsk/Desktop/school/1/l5/l5/bin/Debug/netcoreapp3.1/l5.runtimeconfig.dev.json
+/Users/vbshnsk/Desktop/school/1/l5/l5/bin/Debug/netcoreapp3.1/l5.dll
+/Users/vbshnsk/Desktop/school/1/l5/l5/bin/Debug/netcoreapp3.1/l5.pdb
+/Users/vbshnsk/Desktop/school/1/l5/l5/obj/Debug/netcoreapp3.1/l5.csprojAssemblyReference.cache
+/Users/vbshnsk/Desktop/school/1/l5/l5/obj/Debug/netcoreapp3.1/l5.AssemblyInfoInputs.cache
+/Users/vbshnsk/Desktop/school/1/l5/l5/obj/Debug/netcoreapp3.1/l5.AssemblyInfo.cs
+/Users/vbshnsk/Desktop/school/1/l5/l5/obj/Debug/netcoreapp3.1/l5.csproj.CoreCompileInputs.cache
+/Users/vbshnsk/Desktop/school/1/l5/l5/obj/Debug/netcoreapp3.1/l5.dll
+/Users/vbshnsk/Desktop/school/1/l5/l5/obj/Debug/netcoreapp3.1/l5.pdb
+/Users/vbshnsk/Desktop/school/1/l5/l5/obj/Debug/netcoreapp3.1/l5.genruntimeconfig.cache
